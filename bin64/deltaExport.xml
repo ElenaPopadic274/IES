@@ -1,0 +1,55 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="7">
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="ASSETFUNCTION" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AF_636490589197425582" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SEAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="S_636490590429161971" />
+            <Property id="SEAL_CONDITION" value="Broken" />
+            <Property id="SEAL_KIND" value="Lead" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="MANUFACTURER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="M_636490590187555113" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="PRODUCTASSETMODEL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PAM_636490590352083186" />
+            <Property id="PRODUCTASSETMODEL_CSTANDARDKIND" value="Experimental" />
+            <Property id="PRODUCTASSETMODEL_USAGEKIND" value="CustomerSubstation" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="ASSETINFO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AI_636490590040008812" />
+            <Property id="ASSETINFO_ASSETMODEL" value="0x00000007ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="ASSETOWNER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AO_636490590254895705" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="ASSET" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="A_636490588861346714" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
